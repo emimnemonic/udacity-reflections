@@ -24,5 +24,7 @@ It helps me be able to figure out which commit is the head of the branch and to 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+We ntroduce the new changes to the master copy of the file. It's to better understand how merging works and to see how the different branches grow and how we can bring them back together. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
