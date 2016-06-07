@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+I never knew that it was possible to compare two versions of a file via Terminal. It's pretty cool to be honest. On the other hand, I imagine that doing this for a much larger file would be extremely tedious. Perhaps not even feasible. It helps that the program marks out what has been added or removed. But I would still need to go through all the changes in the file just to find a bug. I don't think it's the most efficient way to debug, although it's still a lot better than doing it manually. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It could definitely help me to see where things might have gone wrong. Also, if I try something new, I can easily revert back to the older version in case the new code didn't work out. It's not possible and not efficient to always remember what I coded before. Also, someone else could join in on the project and have a clear idea of how it was developed.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The good thing is that I can control what to save and when to save, which makes the different versions more meaningful. I don't have to end up saving half-written code or non-functional code. The bad thing is that I'm humand and tend to forget. Might end up losing everything.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+It really depends on the type of files you're working with and their purposes. Since Git is specific for code which usually has many files, libraries, dependencies, frameworks and so forth, a slight change in one would often require a change in another. Therefore, it makes sense to track multiple files at once. Since Google Docs is not meant for code, there's no reason for multiple file tracking really. Thought it'd be cool if they did have the feature.
+
+How can you use the commands git log and git diff to view the history of files?
+
+By installing git and cloning a repository. I can use the command line to view a log of all the changes to a document. Also, using git diff I can then compare two versions of a file to see what has been added and removed.
+
+How might using version control make you more confident to make changes that could break something?
+
+It gives me that assurance that I'd be able to fix something if anything goes seriously bad. I can mess around and experiment more with my code and not worry about having to remember what it was before in order to fix it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to start learning to use version control in my everyday coding.
