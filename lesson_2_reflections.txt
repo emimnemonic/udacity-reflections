@@ -28,3 +28,5 @@ We ntroduce the new changes to the master copy of the file. It's to better under
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic merging is faster and less hassle. However, it may not be possible to select the changes that best fit the scenario. Manually doing a merge would allow you control to ensure that the files are merge optimally.
