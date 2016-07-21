@@ -17,3 +17,7 @@ When working in a team, it helps to avoid code conflict and to make sure that yo
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or GitHub, there would be a lot of code conflicts and miscommunication. I would have to be in constant communication with my teammates just to make sure that we all know what we're working on and that we avoid working on the same files at the same time. GitHub makes collaboration so much easier and teams can work more efficiently.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you're working on a new feature that will take a while to build and when there are a few people working on different things at the same time. It's to avoid code conflict and make sure the master is as clean as possible. I would work directly in master if it's a small project that only I or another person are working on.
