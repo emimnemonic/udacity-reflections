@@ -13,3 +13,7 @@ Clones refer to copying and downloading an entire repository into your local mac
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 When working in a team, it helps to avoid code conflict and to make sure that you're always working with the latest code base.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub, there would be a lot of code conflicts and miscommunication. I would have to be in constant communication with my teammates just to make sure that we all know what we're working on and that we avoid working on the same files at the same time. GitHub makes collaboration so much easier and teams can work more efficiently.
